@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋👋👋
+I'm Farel. 19 y.o. I'm a student at UPNVY.
+I like reading manhwa📖 and listening to music🎶 on my free time.
+I'm currently learning mobile development stuff, especially kotlin📱.
+You can find me on my discord TenshiX#3138🔎.
+See ya🙌
 
 <!--
 **Tenshi-X/Tenshi-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
