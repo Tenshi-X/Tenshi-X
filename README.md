@@ -5,7 +5,7 @@ I'm currently learning mobile development stuff, especially kotlin📱.
 You can find me on my discord TenshiX#3138🔎.
 See ya🙌
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenshiX&theme=material-palenight&layout=compact)](https://github.com/TenshiX/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi-X&theme=material-palenight&layout=compact)](https://github.com/Tenshi-X/)
 
 <!--
 **Tenshi-X/Tenshi-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
