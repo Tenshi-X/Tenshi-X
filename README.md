@@ -7,7 +7,7 @@ See ya🙌
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi-X&theme=material-palenight&layout=compact)](https://github.com/Tenshi-X/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi-X&theme=react&layout=compact)](https://github.com/Tenshi-X/)
 
 <!--
 **Tenshi-X/Tenshi-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
