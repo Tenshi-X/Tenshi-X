@@ -2,7 +2,7 @@
 I'm Seva. 20 y.o.
 I like reading manhwa📖 and listening to music🎶 on my free time.
 I'm currently learning mobile development stuff📱.
-You can find me on my discord TenshiX#3138🔎.
+You can find me on my discord _tenshix🔎.
 See ya🙌
 
 
