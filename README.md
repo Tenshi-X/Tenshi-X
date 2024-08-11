@@ -1,5 +1,5 @@
 ### Hello 👋👋👋
-I'm Seva. 20 y.o.
+I'm Seva. 21 y.o.
 I like reading manhwa📖 and listening to music🎶 on my free time.
 I'm currently learning mobile development stuff📱.
 You can find me on my discord _tenshix🔎.
