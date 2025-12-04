@@ -6,9 +6,7 @@ You can find me on my discord _tenshix🔎.
 See ya🙌
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshi-X&theme=react&layout=compact)](https://github.com/Tenshi-X/)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenshi-x&show_icons=true&theme=radical)
 <!--
 **Tenshi-X/Tenshi-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
